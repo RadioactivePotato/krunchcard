@@ -5,12 +5,12 @@ description: "A card-sized NFC business card"
 created_at: "2025-07-18"
 ---
 
-# July 18 - hello world (0 hours)
+# July 18 - Schematic and Design (1.5 hours)
 
 <details>
 <summary>Click to expand</summary>
 
-hello world
+e
 
 **Time spent this session: 0 hours**
 
