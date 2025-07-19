@@ -1,0 +1,1 @@
+Import in EasyEDA Standard
