@@ -2,7 +2,7 @@
 A card-sized NFC business card
 
 # About
-hello 
+This is a simple credit card sized business card with NFC
 
 # Images
 
@@ -15,14 +15,10 @@ hello
 
 </details>
 
-| PCB | 3D Preview | Case |
-|-----|------------|------|
-| ![PCB](assets/pcb.png) | ![3D-Front](assets/3dfront.png) | ![Baseplate](assets/cad-v1.png) |
-| | ![3D-Back](assets/3dback.png) | |
-
-# Case
-
- ![](assets/case.png)
+| PCB | 3D Preview |
+|-----|------------|
+| ![PCB](assets/pcb.png) | ![3D-Front](assets/3dfront.png) |
+| | ![3D-Back](assets/3dback.png) |
 
 # BOM
 | Qty | Item                               | Notes                             | Cost (USD) | URL                                                                                  |
