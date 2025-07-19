@@ -25,3 +25,20 @@ The back of the PCB is going to be like a useful PCB design tool.
 **Time spent this session: 1.5 hours**
 
 </details>
+
+# July 19 - PCB Layout (1 hour)
+
+<details>
+<summary>Click to expand</summary>
+
+Today I made the PCB layout, the size of the board is 85.5mm x 53.8mm (same size as a credit card).
+
+I put my info like my website and my GitHub profile on the front silkscreen layer and some various PCB design tools in the back
+
+<img width="795" height="494" alt="image" src="https://github.com/user-attachments/assets/f3d6aa66-411f-44b8-b14d-c8d3c86d32ea" />
+
+<img width="743" height="474" alt="image" src="https://github.com/user-attachments/assets/ba74d9e2-d734-431b-b849-3ba4d2f8cf4f" />
+
+**Time spent this session: 1 hours**
+
+</details>
