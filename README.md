@@ -11,7 +11,7 @@ This is a simple credit card sized business card with NFC
 
 | Schematic |
 |-----------|
-| ![Schematic](assets/schematic.png) |
+| ![Schematic](assets/schematic.PNG) |
 
 </details>
 
