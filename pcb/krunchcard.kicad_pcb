@@ -231,6 +231,7 @@
 		(property "Value" "XL-3216UGC"
 			(at -0.3557 -3.9879 180)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "f5e7fe8b-9a5c-4824-839f-c873ed4973cf")
 			(effects
 				(font
@@ -754,7 +755,7 @@
 		(uuid "3fe5a14c-be5e-4bfb-8ca7-579d3ade7ed4")
 		(at 159.911 111.242 180)
 		(property "Reference" "U1"
-			(at -2.069 -0.858 90)
+			(at -2.109 -0.998 90)
 			(layer "F.SilkS")
 			(uuid "0d200d80-c986-416b-aa3a-af93edf189a7")
 			(effects
@@ -768,6 +769,7 @@
 		(property "Value" "NT3H2111W0FTTJ"
 			(at 0 -5.9944 180)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "97dffc31-86ea-487c-b788-3fca8257e6f1")
 			(effects
 				(font
@@ -1681,6 +1683,7 @@
 		(property "Value" "220nF"
 			(at 0 -4.2164 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "df494ae8-eebf-4c6b-90e4-f2d4b6063f66")
 			(effects
 				(font
@@ -2126,6 +2129,7 @@
 		(property "Value" "47Ω"
 			(at -0.127 -5.8674 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "156d28e1-debd-499b-b40a-f6870b6ad4c8")
 			(effects
 				(font
@@ -2680,6 +2684,7 @@
 		(property "Value" "25X48MM_NFC_ANTENNA"
 			(at 0 -16.6624 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "9b380487-bf74-4514-a343-2a0555a96c4e")
 			(effects
 				(font

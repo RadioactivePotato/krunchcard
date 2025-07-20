@@ -450,7 +450,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "BackupProjects_krunchiekrunch_personal_0_20250719.kicad_pro",
+    "filename": "krunchcard.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -486,8 +486,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
-      "pos_files": "",
+      "plot": "C:/Users/root/Downloads/GERBER/",
+      "pos_files": "C:/Users/root/Downloads/GERBER/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
