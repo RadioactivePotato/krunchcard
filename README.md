@@ -18,7 +18,7 @@ This is a simple credit card sized business card with NFC
 | PCB | 3D Preview |
 |-----|------------|
 | ![PCB](assets/pcb.png) | ![3D-Front](assets/3dfront.png) |
-| ![3D-Front-cat](assets/3dfrontcat.png) | ![3D-Back](assets/3dback.png) |
+| ![3D-Front-cat](assets/3dfrontcat.png.png) | ![3D-Back](assets/3dback.png) |
 
 # BOM
 | Qty | Item                               | Notes                             | Cost (USD) | URL                                                                                  |
